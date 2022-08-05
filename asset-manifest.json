@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.224e208f.css",
+    "main.js": "/static/js/main.01fbca3d.js",
+    "static/media/fortex_bg.mp4": "/static/media/fortex_bg.1062f8abc5d05a07f2f5.mp4",
+    "static/media/poster.png": "/static/media/poster.0084a800d2ac4aa085bc.png",
+    "static/media/about.png": "/static/media/about.45ed3009cd157e9857fe.png",
+    "static/media/logo.png": "/static/media/logo.098b8c5866c7dd81caeb.png",
+    "static/media/faq.png": "/static/media/faq.b4b6018011af8028feff.png",
+    "static/media/dark-logo.png": "/static/media/dark-logo.0b0b4dbdcb7eb440438e.png",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.224e208f.css",
+    "static/js/main.01fbca3d.js"
+  ]
+}
